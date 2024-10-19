@@ -11,10 +11,10 @@ es_host = 'localhost'
 
 # Replace the values with your own API ID, API hash and phone number
 # enter your api id from telegram website
-api_id = '28961103'
-api_hash = '5e59e7efcc18e8a8c9c75f3b3468cb25'
+api_id = 'id'
+api_hash = 'hash'
 # enter your api hash form telegram api website
-phone_number = '+400746790802'
+phone_number = 'phone'
 # enter your pone number on this formate
 
 groups_file = open('telegram_channels.txt', 'r')
